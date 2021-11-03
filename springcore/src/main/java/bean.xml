@@ -30,7 +30,7 @@
 	</bean> -->
 	
 	<bean id="msg" class="com.te.springcore.beans.MessageBean" init-method="myInit" destroy-method="myDestroy">
-	<property name="msg" value="happy Diwali FOlks"></property>
+	<property name="msg" value="Happy Diwali Folks"></property>
 	</bean>
 	
 	
